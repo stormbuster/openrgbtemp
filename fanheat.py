@@ -95,14 +95,14 @@ try:
         # Apply the calculated color to the first connected device
         try:
             device = client.devices[0]  # Assuming it's the first device
-            print(f"Applying color to device {device.name}...")
+            # print(f"Applying color to device {device.name}...")
 
             # Apply the color
             device.set_color(color)
             print(f"Color {color} applied to device {device.name} for temp {temp}")
                 
         except Exception as e:
-            print(f"Failed to apply settings: {e}")
+            # print(f"Failed to apply settings: {e}")
 
         # Wait for 10 seconds before the next update
         time.sleep(1)

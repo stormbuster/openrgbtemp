@@ -26642,3 +26642,5827 @@ Calculated Color: RGBColor(red=0, green=0, blue=0)
 Applying color to device Corsair Commander Core...
 Failed to apply settings: 
 Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     39.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     39.0
+[TC0p]     44.0
+[TC1C]     40.0
+[TC1c]     40.0
+[TC2C]     37.0
+[TC2c]     37.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     37.0
+[TC5c]     37.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     37.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     37.0
+[TC0p]     44.0
+[TC1C]     39.0
+[TC1c]     39.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     36.0
+[TC3c]     36.0
+[TC4C]     37.0
+[TC4c]     37.0
+[TC5C]     37.0
+[TC5c]     37.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     38.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     38.0
+[TC0p]     43.0
+[TC1C]     39.0
+[TC1c]     39.0
+[TC2C]     37.0
+[TC2c]     37.0
+[TC3C]     36.0
+[TC3c]     36.0
+[TC4C]     38.0
+[TC4c]     38.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     37.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     37.0
+[TC0p]     44.0
+[TC1C]     40.0
+[TC1c]     40.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     37.0
+[TC4c]     37.0
+[TC5C]     37.0
+[TC5c]     37.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     36.0
+[TC7c]     36.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     36.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     36.0
+[TC0p]     44.0
+[TC1C]     39.0
+[TC1c]     39.0
+[TC2C]     37.0
+[TC2c]     37.0
+[TC3C]     36.0
+[TC3c]     36.0
+[TC4C]     39.0
+[TC4c]     39.0
+[TC5C]     39.0
+[TC5c]     39.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     40.0
+[TC7c]     40.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     38.0
+[TC0D]     45.0
+[TC0E]     45.0
+[TC0F]     45.0
+[TC0G]     0.0
+[TC0H]     45.0
+[TC0J]     0.0
+[TC0P]     45.0
+[TC0c]     38.0
+[TC0p]     45.0
+[TC1C]     40.0
+[TC1c]     40.0
+[TC2C]     39.0
+[TC2c]     39.0
+[TC3C]     37.0
+[TC3c]     37.0
+[TC4C]     40.0
+[TC4c]     40.0
+[TC5C]     40.0
+[TC5c]     40.0
+[TC6C]     42.0
+[TC6c]     42.0
+[TC7C]     41.0
+[TC7c]     41.0
+
+Parsed Temperature: 45.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     37.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     37.0
+[TC0p]     44.0
+[TC1C]     40.0
+[TC1c]     40.0
+[TC2C]     37.0
+[TC2c]     37.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     37.0
+[TC5c]     37.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     37.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     37.0
+[TC0p]     44.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     37.0
+[TC4c]     37.0
+[TC5C]     37.0
+[TC5c]     37.0
+[TC6C]     38.0
+[TC6c]     38.0
+[TC7C]     36.0
+[TC7c]     36.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     37.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     37.0
+[TC0p]     44.0
+[TC1C]     39.0
+[TC1c]     39.0
+[TC2C]     40.0
+[TC2c]     40.0
+[TC3C]     40.0
+[TC3c]     40.0
+[TC4C]     41.0
+[TC4c]     41.0
+[TC5C]     42.0
+[TC5c]     42.0
+[TC6C]     39.0
+[TC6c]     39.0
+[TC7C]     47.0
+[TC7c]     47.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     38.0
+[TC0D]     45.0
+[TC0E]     45.0
+[TC0F]     45.0
+[TC0G]     0.0
+[TC0H]     45.0
+[TC0J]     0.0
+[TC0P]     45.0
+[TC0c]     38.0
+[TC0p]     45.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     39.0
+[TC2c]     39.0
+[TC3C]     37.0
+[TC3c]     37.0
+[TC4C]     40.0
+[TC4c]     40.0
+[TC5C]     41.0
+[TC5c]     41.0
+[TC6C]     38.0
+[TC6c]     38.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 45.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     45.0
+[TC0E]     45.0
+[TC0F]     45.0
+[TC0G]     0.0
+[TC0H]     45.0
+[TC0J]     0.0
+[TC0P]     45.0
+[TC0c]     35.0
+[TC0p]     45.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     36.0
+[TC3c]     36.0
+[TC4C]     37.0
+[TC4c]     37.0
+[TC5C]     37.0
+[TC5c]     37.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     36.0
+[TC7c]     36.0
+
+Parsed Temperature: 45.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     36.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     36.0
+[TC0p]     43.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     38.0
+[TC4c]     38.0
+[TC5C]     37.0
+[TC5c]     37.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     37.0
+[TC7c]     37.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     36.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     36.0
+[TC0p]     44.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     38.0
+[TC2c]     38.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     40.0
+[TC4c]     40.0
+[TC5C]     38.0
+[TC5c]     38.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     43.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     43.0
+[TC0p]     44.0
+[TC1C]     39.0
+[TC1c]     39.0
+[TC2C]     37.0
+[TC2c]     37.0
+[TC3C]     41.0
+[TC3c]     41.0
+[TC4C]     40.0
+[TC4c]     40.0
+[TC5C]     40.0
+[TC5c]     40.0
+[TC6C]     43.0
+[TC6c]     43.0
+[TC7C]     37.0
+[TC7c]     37.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     38.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     38.0
+[TC0p]     44.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     37.0
+[TC2c]     37.0
+[TC3C]     36.0
+[TC3c]     36.0
+[TC4C]     38.0
+[TC4c]     38.0
+[TC5C]     46.0
+[TC5c]     46.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     38.0
+[TC7c]     38.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     37.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     37.0
+[TC0p]     44.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     37.0
+[TC2c]     37.0
+[TC3C]     36.0
+[TC3c]     36.0
+[TC4C]     38.0
+[TC4c]     38.0
+[TC5C]     38.0
+[TC5c]     38.0
+[TC6C]     38.0
+[TC6c]     38.0
+[TC7C]     36.0
+[TC7c]     36.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     38.0
+[TC0D]     45.0
+[TC0E]     45.0
+[TC0F]     45.0
+[TC0G]     0.0
+[TC0H]     45.0
+[TC0J]     0.0
+[TC0P]     45.0
+[TC0c]     38.0
+[TC0p]     45.0
+[TC1C]     41.0
+[TC1c]     41.0
+[TC2C]     40.0
+[TC2c]     40.0
+[TC3C]     36.0
+[TC3c]     36.0
+[TC4C]     42.0
+[TC4c]     42.0
+[TC5C]     41.0
+[TC5c]     41.0
+[TC6C]     42.0
+[TC6c]     42.0
+[TC7C]     37.0
+[TC7c]     37.0
+
+Parsed Temperature: 45.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     37.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     37.0
+[TC0p]     44.0
+[TC1C]     39.0
+[TC1c]     39.0
+[TC2C]     37.0
+[TC2c]     37.0
+[TC3C]     36.0
+[TC3c]     36.0
+[TC4C]     37.0
+[TC4c]     37.0
+[TC5C]     39.0
+[TC5c]     39.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     36.0
+[TC7c]     36.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     46.0
+[TC0D]     46.0
+[TC0E]     46.0
+[TC0F]     46.0
+[TC0G]     0.0
+[TC0H]     46.0
+[TC0J]     0.0
+[TC0P]     46.0
+[TC0c]     46.0
+[TC0p]     46.0
+[TC1C]     40.0
+[TC1c]     40.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     38.0
+[TC3c]     38.0
+[TC4C]     40.0
+[TC4c]     40.0
+[TC5C]     40.0
+[TC5c]     40.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     39.0
+[TC7c]     39.0
+
+Parsed Temperature: 46.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     38.0
+[TC0D]     46.0
+[TC0E]     46.0
+[TC0F]     46.0
+[TC0G]     0.0
+[TC0H]     46.0
+[TC0J]     0.0
+[TC0P]     46.0
+[TC0c]     38.0
+[TC0p]     46.0
+[TC1C]     42.0
+[TC1c]     42.0
+[TC2C]     38.0
+[TC2c]     38.0
+[TC3C]     37.0
+[TC3c]     37.0
+[TC4C]     41.0
+[TC4c]     41.0
+[TC5C]     39.0
+[TC5c]     39.0
+[TC6C]     40.0
+[TC6c]     40.0
+[TC7C]     40.0
+[TC7c]     40.0
+
+Parsed Temperature: 46.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     37.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     37.0
+[TC0p]     44.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     36.0
+[TC3c]     36.0
+[TC4C]     38.0
+[TC4c]     38.0
+[TC5C]     38.0
+[TC5c]     38.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     36.0
+[TC7c]     36.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     37.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     37.0
+[TC0p]     44.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     37.0
+[TC4c]     37.0
+[TC5C]     37.0
+[TC5c]     37.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     35.0
+[TC0p]     43.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     36.0
+[TC3c]     36.0
+[TC4C]     38.0
+[TC4c]     38.0
+[TC5C]     38.0
+[TC5c]     38.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     38.0
+[TC7c]     38.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     35.0
+[TC0p]     44.0
+[TC1C]     39.0
+[TC1c]     39.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     37.0
+[TC4c]     37.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     35.0
+[TC0p]     44.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     36.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     36.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     38.0
+[TC0D]     45.0
+[TC0E]     45.0
+[TC0F]     45.0
+[TC0G]     0.0
+[TC0H]     45.0
+[TC0J]     0.0
+[TC0P]     45.0
+[TC0c]     38.0
+[TC0p]     45.0
+[TC1C]     41.0
+[TC1c]     41.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     36.0
+[TC3c]     36.0
+[TC4C]     38.0
+[TC4c]     38.0
+[TC5C]     37.0
+[TC5c]     37.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     36.0
+[TC7c]     36.0
+
+Parsed Temperature: 45.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     35.0
+[TC0p]     44.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     37.0
+[TC4c]     37.0
+[TC5C]     37.0
+[TC5c]     37.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     36.0
+[TC7c]     36.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     37.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     37.0
+[TC0p]     43.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     38.0
+[TC4c]     38.0
+[TC5C]     38.0
+[TC5c]     38.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     36.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     36.0
+[TC0p]     44.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     35.0
+[TC0p]     43.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     35.0
+[TC0p]     43.0
+[TC1C]     39.0
+[TC1c]     39.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     37.0
+[TC4c]     37.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     37.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     37.0
+[TC0p]     44.0
+[TC1C]     39.0
+[TC1c]     39.0
+[TC2C]     37.0
+[TC2c]     37.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     38.0
+[TC4c]     38.0
+[TC5C]     37.0
+[TC5c]     37.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     36.0
+[TC7c]     36.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     36.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     36.0
+[TC0p]     43.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     34.0
+[TC0p]     44.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     35.0
+[TC0p]     43.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     35.0
+[TC0p]     44.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     34.0
+[TC0p]     44.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     35.0
+[TC0p]     43.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     37.0
+[TC4c]     37.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     35.0
+[TC0p]     44.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     37.0
+[TC2c]     37.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     37.0
+[TC4c]     37.0
+[TC5C]     38.0
+[TC5c]     38.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     38.0
+[TC7c]     38.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     36.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     36.0
+[TC0p]     44.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     38.0
+[TC2c]     38.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     38.0
+[TC4c]     38.0
+[TC5C]     38.0
+[TC5c]     38.0
+[TC6C]     38.0
+[TC6c]     38.0
+[TC7C]     40.0
+[TC7c]     40.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     37.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     37.0
+[TC0p]     44.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     37.0
+[TC2c]     37.0
+[TC3C]     36.0
+[TC3c]     36.0
+[TC4C]     37.0
+[TC4c]     37.0
+[TC5C]     39.0
+[TC5c]     39.0
+[TC6C]     40.0
+[TC6c]     40.0
+[TC7C]     39.0
+[TC7c]     39.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     36.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     36.0
+[TC0p]     44.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     35.0
+[TC0p]     43.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     36.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     36.0
+[TC0p]     43.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     35.0
+[TC0p]     44.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     41.0
+[TC0D]     49.0
+[TC0E]     49.0
+[TC0F]     49.0
+[TC0G]     0.0
+[TC0H]     49.0
+[TC0J]     0.0
+[TC0P]     49.0
+[TC0c]     41.0
+[TC0p]     49.0
+[TC1C]     45.0
+[TC1c]     45.0
+[TC2C]     37.0
+[TC2c]     37.0
+[TC3C]     39.0
+[TC3c]     39.0
+[TC4C]     47.0
+[TC4c]     47.0
+[TC5C]     42.0
+[TC5c]     42.0
+[TC6C]     39.0
+[TC6c]     39.0
+[TC7C]     40.0
+[TC7c]     40.0
+
+Parsed Temperature: 49.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     45.0
+[TC0D]     54.0
+[TC0E]     54.0
+[TC0F]     54.0
+[TC0G]     0.0
+[TC0H]     54.0
+[TC0J]     0.0
+[TC0P]     54.0
+[TC0c]     45.0
+[TC0p]     54.0
+[TC1C]     48.0
+[TC1c]     48.0
+[TC2C]     43.0
+[TC2c]     43.0
+[TC3C]     49.0
+[TC3c]     49.0
+[TC4C]     47.0
+[TC4c]     47.0
+[TC5C]     53.0
+[TC5c]     53.0
+[TC6C]     43.0
+[TC6c]     43.0
+[TC7C]     50.0
+[TC7c]     50.0
+
+Parsed Temperature: 54.0°C
+Calculated Color: RGBColor(red=255, green=132, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     45.0
+[TC0D]     51.0
+[TC0E]     51.0
+[TC0F]     51.0
+[TC0G]     0.0
+[TC0H]     51.0
+[TC0J]     0.0
+[TC0P]     51.0
+[TC0c]     45.0
+[TC0p]     51.0
+[TC1C]     48.0
+[TC1c]     48.0
+[TC2C]     44.0
+[TC2c]     44.0
+[TC3C]     46.0
+[TC3c]     46.0
+[TC4C]     49.0
+[TC4c]     49.0
+[TC5C]     49.0
+[TC5c]     49.0
+[TC6C]     45.0
+[TC6c]     45.0
+[TC7C]     50.0
+[TC7c]     50.0
+
+Parsed Temperature: 51.0°C
+Calculated Color: RGBColor(red=255, green=33, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     45.0
+[TC0D]     48.0
+[TC0E]     48.0
+[TC0F]     48.0
+[TC0G]     0.0
+[TC0H]     48.0
+[TC0J]     0.0
+[TC0P]     48.0
+[TC0c]     45.0
+[TC0p]     48.0
+[TC1C]     42.0
+[TC1c]     42.0
+[TC2C]     43.0
+[TC2c]     43.0
+[TC3C]     43.0
+[TC3c]     43.0
+[TC4C]     48.0
+[TC4c]     48.0
+[TC5C]     51.0
+[TC5c]     51.0
+[TC6C]     41.0
+[TC6c]     41.0
+[TC7C]     45.0
+[TC7c]     45.0
+
+Parsed Temperature: 48.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     41.0
+[TC0D]     49.0
+[TC0E]     49.0
+[TC0F]     49.0
+[TC0G]     0.0
+[TC0H]     49.0
+[TC0J]     0.0
+[TC0P]     49.0
+[TC0c]     41.0
+[TC0p]     49.0
+[TC1C]     41.0
+[TC1c]     41.0
+[TC2C]     40.0
+[TC2c]     40.0
+[TC3C]     42.0
+[TC3c]     42.0
+[TC4C]     43.0
+[TC4c]     43.0
+[TC5C]     42.0
+[TC5c]     42.0
+[TC6C]     42.0
+[TC6c]     42.0
+[TC7C]     45.0
+[TC7c]     45.0
+
+Parsed Temperature: 49.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     39.0
+[TC0D]     48.0
+[TC0E]     48.0
+[TC0F]     48.0
+[TC0G]     0.0
+[TC0H]     48.0
+[TC0J]     0.0
+[TC0P]     48.0
+[TC0c]     39.0
+[TC0p]     48.0
+[TC1C]     45.0
+[TC1c]     45.0
+[TC2C]     43.0
+[TC2c]     43.0
+[TC3C]     41.0
+[TC3c]     41.0
+[TC4C]     43.0
+[TC4c]     43.0
+[TC5C]     51.0
+[TC5c]     51.0
+[TC6C]     42.0
+[TC6c]     42.0
+[TC7C]     47.0
+[TC7c]     47.0
+
+Parsed Temperature: 48.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     37.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     37.0
+[TC0p]     43.0
+[TC1C]     39.0
+[TC1c]     39.0
+[TC2C]     38.0
+[TC2c]     38.0
+[TC3C]     36.0
+[TC3c]     36.0
+[TC4C]     41.0
+[TC4c]     41.0
+[TC5C]     46.0
+[TC5c]     46.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     38.0
+[TC7c]     38.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     35.0
+[TC0p]     43.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     38.0
+[TC4c]     38.0
+[TC5C]     38.0
+[TC5c]     38.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     37.0
+[TC7c]     37.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     35.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     37.0
+[TC5c]     37.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     35.0
+[TC0p]     43.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     35.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     34.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     34.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     34.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     34.0
+[TC0p]     44.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     34.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     35.0
+[TC0p]     44.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     35.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     35.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     37.0
+[TC4c]     37.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     34.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     33.0
+[TC2c]     33.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     34.0
+[TC0p]     43.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     34.0
+[TC0p]     43.0
+[TC1C]     39.0
+[TC1c]     39.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     37.0
+[TC5c]     37.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     36.0
+[TC7c]     36.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     34.0
+[TC0p]     43.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     33.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     33.0
+[TC0p]     43.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     34.0
+[TC4c]     34.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     33.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     33.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     34.0
+[TC6c]     34.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     42.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     42.0
+[TC0p]     44.0
+[TC1C]     42.0
+[TC1c]     42.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     41.0
+[TC6c]     41.0
+[TC7C]     36.0
+[TC7c]     36.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     35.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     36.0
+[TC3c]     36.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     39.0
+[TC5c]     39.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     34.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     34.0
+[TC4c]     34.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     38.0
+[TC6c]     38.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     35.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     40.0
+[TC4c]     40.0
+[TC5C]     38.0
+[TC5c]     38.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     36.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     36.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     43.0
+[TC2c]     43.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     41.0
+[TC4c]     41.0
+[TC5C]     38.0
+[TC5c]     38.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     36.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     36.0
+[TC0p]     44.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     38.0
+[TC4c]     38.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     34.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     34.0
+[TC6c]     34.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     34.0
+[TC5c]     34.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     34.0
+[TC0p]     43.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     38.0
+[TC6c]     38.0
+[TC7C]     36.0
+[TC7c]     36.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     33.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     33.0
+[TC0p]     42.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     34.0
+[TC5c]     34.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     33.0
+[TC2c]     33.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     38.0
+[TC6c]     38.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     34.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     33.0
+[TC2c]     33.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     34.0
+[TC4c]     34.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     39.0
+[TC6c]     39.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     33.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     33.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     34.0
+[TC5c]     34.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     34.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     33.0
+[TC2c]     33.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     34.0
+[TC5c]     34.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     34.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     32.0
+[TC2c]     32.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     34.0
+[TC4c]     34.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     33.0
+[TC2c]     33.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     34.0
+[TC4c]     34.0
+[TC5C]     34.0
+[TC5c]     34.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     35.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     36.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     36.0
+[TC0p]     43.0
+[TC1C]     40.0
+[TC1c]     40.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     38.0
+[TC4c]     38.0
+[TC5C]     40.0
+[TC5c]     40.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     34.0
+[TC0p]     43.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     34.0
+[TC5c]     34.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     40.0
+[TC7c]     40.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     35.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     33.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     33.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     41.0
+[TC0E]     41.0
+[TC0F]     41.0
+[TC0G]     0.0
+[TC0H]     41.0
+[TC0J]     0.0
+[TC0P]     41.0
+[TC0c]     35.0
+[TC0p]     41.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     33.0
+[TC2c]     33.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     34.0
+[TC4c]     34.0
+[TC5C]     34.0
+[TC5c]     34.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 41.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     32.0
+[TC2c]     32.0
+[TC3C]     32.0
+[TC3c]     32.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     40.0
+[TC6c]     40.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     34.0
+[TC0p]     43.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     37.0
+[TC5c]     37.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     32.0
+[TC7c]     32.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     34.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     33.0
+[TC2c]     33.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     32.0
+[TC2c]     32.0
+[TC3C]     32.0
+[TC3c]     32.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     32.0
+[TC7c]     32.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     32.0
+[TC2c]     32.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     34.0
+[TC5c]     34.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     32.0
+[TC7c]     32.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     34.0
+[TC0p]     43.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     35.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     33.0
+[TC2c]     33.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     33.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     33.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     33.0
+[TC2c]     33.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     32.0
+[TC2c]     32.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     37.0
+[TC3c]     37.0
+[TC4C]     37.0
+[TC4c]     37.0
+[TC5C]     44.0
+[TC5c]     44.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     32.0
+[TC7c]     32.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     33.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     33.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     34.0
+[TC6c]     34.0
+[TC7C]     32.0
+[TC7c]     32.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     33.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     33.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     32.0
+[TC2c]     32.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     33.0
+[TC2c]     33.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     34.0
+[TC5c]     34.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     32.0
+[TC7c]     32.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     33.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     33.0
+[TC0p]     42.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     32.0
+[TC3c]     32.0
+[TC4C]     34.0
+[TC4c]     34.0
+[TC5C]     34.0
+[TC5c]     34.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     32.0
+[TC7c]     32.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     33.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     33.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     33.0
+[TC2c]     33.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     34.0
+[TC4c]     34.0
+[TC5C]     34.0
+[TC5c]     34.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     32.0
+[TC7c]     32.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     33.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     33.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     32.0
+[TC2c]     32.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     34.0
+[TC4c]     34.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     32.0
+[TC7c]     32.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     32.0
+[TC2c]     32.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     33.0
+[TC2c]     33.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     34.0
+[TC5c]     34.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     32.0
+[TC7c]     32.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     34.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     33.0
+[TC2c]     33.0
+[TC3C]     36.0
+[TC3c]     36.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     32.0
+[TC2c]     32.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     31.0
+[TC2c]     31.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     33.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     33.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     32.0
+[TC2c]     32.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     34.0
+[TC5c]     34.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     32.0
+[TC7c]     32.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     35.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     36.0
+[TC3c]     36.0
+[TC4C]     38.0
+[TC4c]     38.0
+[TC5C]     42.0
+[TC5c]     42.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     35.0
+[TC0p]     44.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     39.0
+[TC6c]     39.0
+[TC7C]     38.0
+[TC7c]     38.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     41.0
+[TC4c]     41.0
+[TC5C]     37.0
+[TC5c]     37.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     36.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     36.0
+[TC0p]     42.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     37.0
+[TC4c]     37.0
+[TC5C]     37.0
+[TC5c]     37.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     35.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     34.0
+[TC5c]     34.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     33.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     33.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     34.0
+[TC5c]     34.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     34.0
+[TC0p]     44.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     41.0
+[TC2c]     41.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     38.0
+[TC6c]     38.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     34.0
+[TC5c]     34.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     34.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     35.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     37.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     37.0
+[TC0p]     44.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     37.0
+[TC5c]     37.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     39.0
+[TC7c]     39.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     35.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     37.0
+[TC5c]     37.0
+[TC6C]     38.0
+[TC6c]     38.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     33.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     33.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     34.0
+[TC4c]     34.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     38.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     38.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     37.0
+[TC2c]     37.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     41.0
+[TC4c]     41.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     41.0
+[TC6c]     41.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     40.0
+[TC2c]     40.0
+[TC3C]     37.0
+[TC3c]     37.0
+[TC4C]     42.0
+[TC4c]     42.0
+[TC5C]     40.0
+[TC5c]     40.0
+[TC6C]     41.0
+[TC6c]     41.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     35.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     37.0
+[TC4c]     37.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     35.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     39.0
+[TC2c]     39.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     39.0
+[TC4c]     39.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     37.0
+[TC7c]     37.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     44.0
+[TC0E]     44.0
+[TC0F]     44.0
+[TC0G]     0.0
+[TC0H]     44.0
+[TC0J]     0.0
+[TC0P]     44.0
+[TC0c]     34.0
+[TC0p]     44.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     37.0
+[TC2c]     37.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     39.0
+[TC4c]     39.0
+[TC5C]     37.0
+[TC5c]     37.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 44.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     37.0
+[TC0D]     45.0
+[TC0E]     45.0
+[TC0F]     45.0
+[TC0G]     0.0
+[TC0H]     45.0
+[TC0J]     0.0
+[TC0P]     45.0
+[TC0c]     37.0
+[TC0p]     45.0
+[TC1C]     40.0
+[TC1c]     40.0
+[TC2C]     42.0
+[TC2c]     42.0
+[TC3C]     40.0
+[TC3c]     40.0
+[TC4C]     38.0
+[TC4c]     38.0
+[TC5C]     37.0
+[TC5c]     37.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     36.0
+[TC7c]     36.0
+
+Parsed Temperature: 45.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     34.0
+[TC0p]     43.0
+[TC1C]     38.0
+[TC1c]     38.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     33.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     33.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     37.0
+[TC4c]     37.0
+[TC5C]     38.0
+[TC5c]     38.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     33.0
+[TC0D]     41.0
+[TC0E]     41.0
+[TC0F]     41.0
+[TC0G]     0.0
+[TC0H]     41.0
+[TC0J]     0.0
+[TC0P]     41.0
+[TC0c]     33.0
+[TC0p]     41.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     32.0
+[TC2c]     32.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     34.0
+[TC6c]     34.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 41.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     32.0
+[TC2c]     32.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     33.0
+[TC5c]     33.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     32.0
+[TC7c]     32.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     32.0
+[TC2c]     32.0
+[TC3C]     32.0
+[TC3c]     32.0
+[TC4C]     34.0
+[TC4c]     34.0
+[TC5C]     34.0
+[TC5c]     34.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     34.0
+[TC0p]     43.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     33.0
+[TC2c]     33.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     34.0
+[TC6c]     34.0
+[TC7C]     31.0
+[TC7c]     31.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     35.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     35.0
+[TC0p]     42.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     38.0
+[TC4c]     38.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     40.0
+[TC6c]     40.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     33.0
+[TC2c]     33.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     34.0
+[TC6c]     34.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     33.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     33.0
+[TC0p]     43.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     33.0
+[TC2c]     33.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     34.0
+[TC6c]     34.0
+[TC7C]     32.0
+[TC7c]     32.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     33.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     33.0
+[TC0p]     43.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     33.0
+[TC2c]     33.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     37.0
+[TC5c]     37.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     31.0
+[TC7c]     31.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     35.0
+[TC2c]     35.0
+[TC3C]     37.0
+[TC3c]     37.0
+[TC4C]     37.0
+[TC4c]     37.0
+[TC5C]     40.0
+[TC5c]     40.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     32.0
+[TC7c]     32.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     33.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     33.0
+[TC0p]     42.0
+[TC1C]     35.0
+[TC1c]     35.0
+[TC2C]     33.0
+[TC2c]     33.0
+[TC3C]     36.0
+[TC3c]     36.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     31.0
+[TC7c]     31.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     32.0
+[TC2c]     32.0
+[TC3C]     35.0
+[TC3c]     35.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     32.0
+[TC7c]     32.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     41.0
+[TC0E]     41.0
+[TC0F]     41.0
+[TC0G]     0.0
+[TC0H]     41.0
+[TC0J]     0.0
+[TC0P]     41.0
+[TC0c]     34.0
+[TC0p]     41.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     32.0
+[TC2c]     32.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     34.0
+[TC5c]     34.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 41.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     34.0
+[TC0p]     43.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     37.0
+[TC2c]     37.0
+[TC3C]     36.0
+[TC3c]     36.0
+[TC4C]     39.0
+[TC4c]     39.0
+[TC5C]     41.0
+[TC5c]     41.0
+[TC6C]     37.0
+[TC6c]     37.0
+[TC7C]     36.0
+[TC7c]     36.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     33.0
+[TC2c]     33.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     34.0
+[TC4c]     34.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     35.0
+[TC7c]     35.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     34.0
+[TC0p]     43.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     37.0
+[TC4c]     37.0
+[TC5C]     34.0
+[TC5c]     34.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     42.0
+[TC0D]     49.0
+[TC0E]     49.0
+[TC0F]     49.0
+[TC0G]     0.0
+[TC0H]     49.0
+[TC0J]     0.0
+[TC0P]     49.0
+[TC0c]     42.0
+[TC0p]     49.0
+[TC1C]     43.0
+[TC1c]     43.0
+[TC2C]     52.0
+[TC2c]     52.0
+[TC3C]     49.0
+[TC3c]     49.0
+[TC4C]     54.0
+[TC4c]     54.0
+[TC5C]     54.0
+[TC5c]     54.0
+[TC6C]     39.0
+[TC6c]     39.0
+[TC7C]     50.0
+[TC7c]     50.0
+
+Parsed Temperature: 49.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     33.0
+[TC2c]     33.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     33.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     33.0
+[TC0p]     42.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     32.0
+[TC2c]     32.0
+[TC3C]     32.0
+[TC3c]     32.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     34.0
+[TC5c]     34.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     34.0
+[TC0p]     43.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     34.0
+[TC2c]     34.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     36.0
+[TC4c]     36.0
+[TC5C]     38.0
+[TC5c]     38.0
+[TC6C]     41.0
+[TC6c]     41.0
+[TC7C]     34.0
+[TC7c]     34.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     32.0
+[TC2c]     32.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     33.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     33.0
+[TC0p]     42.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     32.0
+[TC2c]     32.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     34.0
+[TC4c]     34.0
+[TC5C]     38.0
+[TC5c]     38.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     33.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     33.0
+[TC0p]     42.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     33.0
+[TC2c]     33.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     37.0
+[TC5c]     37.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     32.0
+[TC7c]     32.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     33.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     33.0
+[TC0p]     43.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     36.0
+[TC2c]     36.0
+[TC3C]     36.0
+[TC3c]     36.0
+[TC4C]     39.0
+[TC4c]     39.0
+[TC5C]     44.0
+[TC5c]     44.0
+[TC6C]     36.0
+[TC6c]     36.0
+[TC7C]     37.0
+[TC7c]     37.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     34.0
+[TC0p]     43.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     32.0
+[TC2c]     32.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     36.0
+[TC5c]     36.0
+[TC6C]     34.0
+[TC6c]     34.0
+[TC7C]     32.0
+[TC7c]     32.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     43.0
+[TC0E]     43.0
+[TC0F]     43.0
+[TC0G]     0.0
+[TC0H]     43.0
+[TC0J]     0.0
+[TC0P]     43.0
+[TC0c]     34.0
+[TC0p]     43.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     31.0
+[TC2c]     31.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     34.0
+[TC6c]     34.0
+[TC7C]     32.0
+[TC7c]     32.0
+
+Parsed Temperature: 43.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     33.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     33.0
+[TC0p]     42.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     32.0
+[TC2c]     32.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     33.0
+[TC5c]     33.0
+[TC6C]     34.0
+[TC6c]     34.0
+[TC7C]     31.0
+[TC7c]     31.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     33.0
+[TC0D]     41.0
+[TC0E]     41.0
+[TC0F]     41.0
+[TC0G]     0.0
+[TC0H]     41.0
+[TC0J]     0.0
+[TC0P]     41.0
+[TC0c]     33.0
+[TC0p]     41.0
+[TC1C]     37.0
+[TC1c]     37.0
+[TC2C]     32.0
+[TC2c]     32.0
+[TC3C]     34.0
+[TC3c]     34.0
+[TC4C]     34.0
+[TC4c]     34.0
+[TC5C]     35.0
+[TC5c]     35.0
+[TC6C]     34.0
+[TC6c]     34.0
+[TC7C]     32.0
+[TC7c]     32.0
+
+Parsed Temperature: 41.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     34.0
+[TC0p]     42.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     32.0
+[TC2c]     32.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     34.0
+[TC5c]     34.0
+[TC6C]     34.0
+[TC6c]     34.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     34.0
+[TC0D]     41.0
+[TC0E]     41.0
+[TC0F]     41.0
+[TC0G]     0.0
+[TC0H]     41.0
+[TC0J]     0.0
+[TC0P]     41.0
+[TC0c]     34.0
+[TC0p]     41.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     32.0
+[TC2c]     32.0
+[TC3C]     32.0
+[TC3c]     32.0
+[TC4C]     34.0
+[TC4c]     34.0
+[TC5C]     34.0
+[TC5c]     34.0
+[TC6C]     35.0
+[TC6c]     35.0
+[TC7C]     33.0
+[TC7c]     33.0
+
+Parsed Temperature: 41.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     33.0
+[TC0D]     42.0
+[TC0E]     42.0
+[TC0F]     42.0
+[TC0G]     0.0
+[TC0H]     42.0
+[TC0J]     0.0
+[TC0P]     42.0
+[TC0c]     33.0
+[TC0p]     42.0
+[TC1C]     36.0
+[TC1c]     36.0
+[TC2C]     32.0
+[TC2c]     32.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     35.0
+[TC4c]     35.0
+[TC5C]     34.0
+[TC5c]     34.0
+[TC6C]     34.0
+[TC6c]     34.0
+[TC7C]     32.0
+[TC7c]     32.0
+
+Parsed Temperature: 42.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
+[INFO]: found 24 keys
+
+[TC0C]     33.0
+[TC0D]     41.0
+[TC0E]     41.0
+[TC0F]     41.0
+[TC0G]     0.0
+[TC0H]     41.0
+[TC0J]     0.0
+[TC0P]     41.0
+[TC0c]     33.0
+[TC0p]     41.0
+[TC1C]     35.0
+[TC1c]     35.0
+[TC2C]     31.0
+[TC2c]     31.0
+[TC3C]     33.0
+[TC3c]     33.0
+[TC4C]     34.0
+[TC4c]     34.0
+[TC5C]     34.0
+[TC5c]     34.0
+[TC6C]     34.0
+[TC6c]     34.0
+[TC7C]     32.0
+[TC7c]     32.0
+
+Parsed Temperature: 41.0°C
+Calculated Color: RGBColor(red=0, green=0, blue=0)
+Applying color to device Corsair Commander Core...
+Failed to apply settings: 
+Raw Output from smc:
