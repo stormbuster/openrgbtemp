@@ -1,19 +1,24 @@
 import subprocess
+import sys
+import os
+import logging
+
+# Import the necessary modules after activation
+from openrgb import OpenRGBClient
+from openrgb.utils import RGBColor
 import time
+import subprocess
 from openrgb import OpenRGBClient
 from openrgb.utils import RGBColor
 
 # Function to get CPU temperature using smc
 def get_cpu_temperature():
     try:
-        result = subprocess.run(
-            ["smc", "list", "-t"],
-            capture_output=True, text=True
-        )
-        
+        result = subprocess.run(["/Applications/Stats.app/Contents/Resources/smc", "list", "-t"], capture_output=True, text=True)
+      
         # Print raw output for debugging
-        print("Raw Output from smc:")
-        print(result.stdout)
+        # print("Raw Output from smc:")
+        # print(result.stdout)
         
         # Parse temperature from the output
         lines = result.stdout.split("\n")
