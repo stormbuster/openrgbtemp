@@ -36,41 +36,42 @@ def get_cpu_temperature():
         print(f"Unexpected error: {e}")
     return None
 
-# Function to calculate color based on temperature and brightness
-def calculate_color_and_brightness(temp):
+# Function to calculate color based on temperature
+def calculate_color(temp):
     if temp is None:
-        print("No temperature data available. Defaulting to Orange with 100% brightness.")
-        return RGBColor(255, 165, 0), 100  # Default to Orange at 100% brightness
+        print("No temperature data available. Defaulting to Black.")
+        return RGBColor(0, 0, 0)  # Default to Black
     
-    # Color and brightness thresholds
-    min_temp = 45
-    max_temp = 60
-    min_brightness = 0
-    max_brightness = 100
-    
-    # Color change from orange to red
-    if temp < min_temp:
-        color = RGBColor(0, 0, 255)  # Blue for temperatures below 45°C
-        brightness = 0
-    elif temp <= min_temp + 5:
-        # Gradient from orange to red
-        t = (temp - min_temp) / 5  # Normalize to range [0, 1]
-        r = int(255)
-        g = int(165 - 165 * t)
-        b = int(0)
+    # Define temperature ranges
+    orange_start_temp = 50
+    orange_end_temp = 55
+    red_start_temp = 55
+    red_end_temp = 70
+
+    # Determine color
+    if temp <= orange_start_temp:
+        color = RGBColor(0, 0, 0)  # Black
+    elif temp <= orange_end_temp:
+        # Transition from black to full orange
+        t = (temp - orange_start_temp) / (orange_end_temp - orange_start_temp)  # Normalize to range [0, 1]
+        t = max(0, min(t, 1))  # Clamp t to [0, 1]
+        r = 255
+        g = int(165 * t)  # Transition from 0 to 165 (Orange component)
+        b = 0
         color = RGBColor(r, g, b)
-        brightness = min_brightness + (temp - min_temp) / (max_temp - min_temp) * (max_brightness - min_brightness)
-    elif temp <= max_temp:
-        # Gradient from red to a more intense red
-        t = (temp - (min_temp + 5)) / (max_temp - (min_temp + 5))  # Normalize to range [0, 1]
-        color = RGBColor(255, 0, 0)
-        brightness = min_brightness + (temp - min_temp) / (max_temp - min_temp) * (max_brightness - min_brightness)
+    elif temp <= red_end_temp:
+        # Transition from orange to red
+        t = (temp - red_start_temp) / (red_end_temp - red_start_temp)  # Normalize to range [0, 1]
+        t = max(0, min(t, 1))  # Clamp t to [0, 1]
+        r = 255
+        g = int(165 * (1 - t))  # Transition from 165 (Orange component) to 0
+        b = 0
+        color = RGBColor(r, g, b)
     else:
-        color = RGBColor(128, 0, 128)  # Purple for temperatures above 60°C
-        brightness = max_brightness
-    
-    print(f"Calculated Color: {color} with Brightness: {brightness}%")
-    return color, brightness
+        color = RGBColor(255, 0, 0)  # Full red
+
+    print(f"Calculated Color: {color}")
+    return color
 
 # Connect to the OpenRGB server
 print("Attempting to connect to OpenRGB server...")
@@ -83,25 +84,23 @@ try:
         # Get the current CPU temperature
         temp = get_cpu_temperature()
 
-        # Calculate the desired color and brightness based on temperature
-        color, brightness = calculate_color_and_brightness(temp)
+        # Calculate the desired color based on temperature
+        color = calculate_color(temp)
 
-        # Apply the calculated color and brightness to the first connected device
+        # Apply the calculated color to the first connected device
         try:
             device = client.devices[0]  # Assuming it's the first device
-            print(f"Applying color and brightness to device {device.name}...")
+            print(f"Applying color to device {device.name}...")
 
-            # Set the color for all LEDs in the device
-            # Note: Adjusting brightness might require different handling depending on your device
+            # Apply the color
             device.set_color(color)
-            device.set_brightness(brightness / 100)  # Assuming brightness needs to be a fraction
-
-            print(f"Color {color} with brightness {brightness}% applied to device {device.name}.")
+            print(f"Color {color} applied to device {device.name} for temp {temp}")
+                
         except Exception as e:
             print(f"Failed to apply settings: {e}")
 
         # Wait for 10 seconds before the next update
-        time.sleep(10)
+        time.sleep(1)
 
 except KeyboardInterrupt:
     print("Script interrupted by user.")
